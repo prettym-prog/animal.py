@@ -4,5 +4,5 @@
 # Description: Asks the user for their favorite animal and then 
 #              prints out that that is their favorite animal
 
-fave_animal = input("lion")
+fave_animal = input("velociraptor")
 print("Your favorite animal is the " + fave_animal + ".")
